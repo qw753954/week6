@@ -9932,14 +9932,14 @@ button {
   position: fixed;
   top: 25px;
   right: 25px;
-  animation: dudu 0.3s infinite alternate linear;
+  animation: du 0.3s infinite alternate linear;
 }
 button:hover {
   animation: none;
   transform: scale(1);
 }
 
-@keyframes dudu {
+@keyframes du {
   0% {
     transform: scale(1);
   }
