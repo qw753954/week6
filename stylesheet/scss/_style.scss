@@ -14,14 +14,14 @@ button {
     position: fixed;
     top: 25px;
     right: 25px;
-    animation: dudu .3s infinite alternate linear;
+    animation: du .3s infinite alternate linear;
     &:hover {
         animation: none;
         transform: scale(1);
     }
 }
 
-@keyframes dudu {
+@keyframes du {
     0% {
         transform: scale(1);
     }
